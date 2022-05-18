@@ -1,0 +1,16 @@
+{
+  "name": "ether",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "./bin",
+    "./lib",
+    "README.md"
+  ],
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "keywords": [],
+  "author": "ikaro <iskconsalaz@gmail.com>",
+  "license": "ISC"
+}
